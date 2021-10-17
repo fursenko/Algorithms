@@ -10,6 +10,7 @@ namespace Algorithms.Sorting
             Test(new MergeSorterBU(), "Merge sort, bottom up");
 			Test(new ShellSorter(), "Shell sort");
 			Test(new InsertionSorter(), "Insertion Sort");
+			Test(new QuickSorter(), "Quick Sort");
         }
 
         static void Test(ISorter sorter, string name)
