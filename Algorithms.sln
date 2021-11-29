@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.PriotityQueue", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.DP.Fibonacci", "Algorithms.DP.Fibonacci\Algorithms.DP.Fibonacci.csproj", "{E7CEB9C6-935B-4EBF-9AA2-96C53830DACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.DP.PowerSet", "Algorithms.DP.PowerSet\Algorithms.DP.PowerSet.csproj", "{979D475A-1749-4CEC-9293-82044BBA7D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.DP.PowerSet", "Algorithms.DP.PowerSet\Algorithms.DP.PowerSet.csproj", "{979D475A-1749-4CEC-9293-82044BBA7D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinarySearch", "Algorithms.BinarySearch\Algorithms.BinarySearch.csproj", "{C324D052-F2AF-4080-8824-4B58FFD0A80A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{979D475A-1749-4CEC-9293-82044BBA7D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{979D475A-1749-4CEC-9293-82044BBA7D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{979D475A-1749-4CEC-9293-82044BBA7D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C324D052-F2AF-4080-8824-4B58FFD0A80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C324D052-F2AF-4080-8824-4B58FFD0A80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C324D052-F2AF-4080-8824-4B58FFD0A80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C324D052-F2AF-4080-8824-4B58FFD0A80A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
