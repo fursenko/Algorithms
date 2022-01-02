@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.DP.Fibonacci", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.DP.PowerSet", "Algorithms.DP.PowerSet\Algorithms.DP.PowerSet.csproj", "{979D475A-1749-4CEC-9293-82044BBA7D36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinarySearch", "Algorithms.BinarySearch\Algorithms.BinarySearch.csproj", "{C324D052-F2AF-4080-8824-4B58FFD0A80A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.BinarySearch", "Algorithms.BinarySearch\Algorithms.BinarySearch.csproj", "{C324D052-F2AF-4080-8824-4B58FFD0A80A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.DP.Permutations", "Algorithms.DP.Permutations\Algorithms.DP.Permutations.csproj", "{2E3D1496-3723-40A5-96AC-E5101199E7F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.DP.Permutations", "Algorithms.DP.Permutations\Algorithms.DP.Permutations.csproj", "{2E3D1496-3723-40A5-96AC-E5101199E7F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.LRU", "Algorithms.LRU\Algorithms.LRU.csproj", "{8D171FEF-562F-440C-BA21-2554F62A7732}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2E3D1496-3723-40A5-96AC-E5101199E7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E3D1496-3723-40A5-96AC-E5101199E7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E3D1496-3723-40A5-96AC-E5101199E7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D171FEF-562F-440C-BA21-2554F62A7732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D171FEF-562F-440C-BA21-2554F62A7732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D171FEF-562F-440C-BA21-2554F62A7732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D171FEF-562F-440C-BA21-2554F62A7732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
